@@ -1,0 +1,5 @@
+Name: Oybek
+Surname: Yuldashov
+Group: IT2-2307
+Student ID: 41559
+Course: DevOps
