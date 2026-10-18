@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: yuldashov-oybek-devops
+    container_name: yuldashov-oybek-container
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      STUDENT_NAME: "Oybek"
+      STUDENT_SURNAME: "Yuldashov"
+      STUDENT_GROUP: "IT2-2307"
+      STUDENT_ID: "41559"
